@@ -1,0 +1,6 @@
+#Elemento-1 {
+    color: hsl(0, 100%, 50%);
+}
+ul #Elemento-1 {
+    font-size: 2rem;
+}
